@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1572701290 source:e:\mohamed\university\fourth year\fall\eda naneng 503\mini projects\kn_algorithm\kn_algorithm\main.cpp
+	"connectivity_matrix.h"
+
+1577623606 e:\mohamed\university\fourth year\fall\eda naneng 503\mini projects\kn_algorithm\kn_algorithm\connectivity_matrix.h
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<sstream>
+	<vector>
+	"connectivity_matrix.h"
+
